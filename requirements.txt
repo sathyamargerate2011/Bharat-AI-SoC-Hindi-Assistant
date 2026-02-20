@@ -11,7 +11,7 @@ numpy==2.2.2
 # Intent Recognition (Machine Learning)
 scikit-learn==1.6.1
 
-# --- Hardware Specifications (For Judge Reference) ---
+# --- Hardware Specifications (For Reference) ---
 # SBC: Raspberry Pi 4 (ARM Cortex-A72)
 # Mic: Grenaro Wireless Microphone (USB Digital Input)
 # Output: 3.5mm Analog Audio / USB Speaker
