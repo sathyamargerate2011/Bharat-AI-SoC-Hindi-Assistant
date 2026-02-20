@@ -12,6 +12,8 @@ A low-latency, privacy-preserving voice assistant for the Raspberry Pi 4, built 
 1. **ASR:** Vosk-Kaldi (quantized for 8-bit integer math).
 2. **NLP:** TF-IDF Vectorizer + Cosine Similarity (Custom Feature Extraction).
 3. **TTS:** eSpeak-NG (optimized for low-latency Hindi synthesis).
+<img width="1122" height="615" alt="image" src="https://github.com/user-attachments/assets/1316407b-6b41-4bec-98a0-f4ddf701c045" />
+
 
 ## 📊 Performance
 - **Brain Latency:** 0.003s - 0.008s
