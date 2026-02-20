@@ -1,0 +1,17 @@
+# --- Software Dependencies ---
+# Core ASR Engine (ARM Optimized)
+vosk==0.3.45
+
+# Audio I/O Management
+pyaudio==0.2.14
+
+# Mathematical Processing
+numpy==2.2.2
+
+# Intent Recognition (Machine Learning)
+scikit-learn==1.6.1
+
+# --- Hardware Specifications (For Judge Reference) ---
+# SBC: Raspberry Pi 4 (ARM Cortex-A72)
+# Mic: Grenaro Wireless Microphone (USB Digital Input)
+# Output: 3.5mm Analog Audio / USB Speaker
